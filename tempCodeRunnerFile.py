@@ -1,1 +1,0 @@
-ascii_art = pyfiglet.figlet_format("Port Scanner", font="starwars", width=terminal_width, justify="center")
